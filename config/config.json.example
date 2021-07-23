@@ -1,0 +1,11 @@
+{
+    "spotifyKeys": {
+        "clientSecret": "client:secret",
+        "clientId": "client:id"
+    },
+    "playlists": {
+        "ogPlaylist": "playlist:id",
+        "destPlaylist": "playlist:id",
+        "syncHelperPlaylist": "playlist:id"
+    }
+}

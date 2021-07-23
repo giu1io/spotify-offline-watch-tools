@@ -1,0 +1,19 @@
+{
+  "name": "copy-playlist-watch-offline-playback",
+  "version": "1.0.0",
+  "description": "Updates a playlist to work around issues with Spotify's Apple Watch offline playlist syncing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "auth": "node src/auth.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "spotify-web-api-node": "^5.0.2"
+  },
+  "volta": {
+    "node": "14.17.3"
+  }
+}
